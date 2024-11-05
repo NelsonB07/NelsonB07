@@ -3,6 +3,7 @@
 - 🌱 Atualmete estou aprendendo: HTML5, CSS3, JS e Python.
 - 💞️ Procuro colaborar com a evolução da tecnologia.
 - 📫 Brasília - DF
+- 👨‍💻 Análise e Desenvolvimento de Sistemas.
 
 <!---
 NelsonB07/NelsonB07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
