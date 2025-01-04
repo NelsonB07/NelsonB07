@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou @NelsonB07
 - 💻 Futuro programador!
-- 🌱 Atualmete estou aprendendo: HTML5, CSS3, JS.
+- 🌱 Atualmete estou aprendendo: HTML5, CSS3, JS e PHP
 - 💞️ Procuro colaborar com a evolução da tecnologia.
 - 📫 Brasília - DF
 - 👨‍💻 Análise e Desenvolvimento de Sistemas.
