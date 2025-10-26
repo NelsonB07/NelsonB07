@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou @NelsonB07
-- 💻 Desenvolvedor Web!
-- 🌱 Habilidades: HTML5, CSS3, JS e PHP.
+- 💻 Desenvolvedor Fullstack!
+- 🌱 Habilidades:  PHP | CodeIgniter | React | Node.Js | SQL.
 - 💞️ Procuro colaborar com a evolução da tecnologia.
 - 📫 Brasília - DF
 - 👨‍💻 Análise e Desenvolvimento de Sistemas.
